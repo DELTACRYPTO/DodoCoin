@@ -15,9 +15,7 @@ Interactions absurdes :
 
 Nourrissez le Dodo, chantez-lui une berceuse, ou offrez-lui un oreiller pour dépenser des DodoCoins sans effet réel, mais avec humour.
 
-Récompense unique :
-
-oken DodoCoin :
+Token DodoCoin :
 
 Supply totale : 1 milliard de DodoCoins.
 
