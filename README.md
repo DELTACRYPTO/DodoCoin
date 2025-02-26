@@ -19,4 +19,4 @@ Token DodoCoin :
 
 Supply totale : 1 milliard de DodoCoins.
 
-Utilisé pour toutes les interactions dans le jeu.
+Utilisé pour toutes les interactions dans le jeu §§§
