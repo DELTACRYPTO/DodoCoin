@@ -1,3 +1,5 @@
+WE ARE BASED#
+
 # DodoCoin Experience : 
 
 DodoCoin : Le Jeu en Bref 🦤💤🪙
